@@ -17,9 +17,9 @@
 
 ### 🛠 Technical Arsenal
 * **Languages & Frontend:** JavaScript (ES6+), React.js, HTML5, CSS3, Tailwind CSS
-* **Backend & Frameworks:** Python, Flask, Streamlit, Node.js
+* **Backend & Frameworks:** Python, Java, Flask, Streamlit
 * **Databases & Libraries:** Pandas, Scikit-Learn, PostgreSQL, MySQL, SQLite, MongoDB
-* **Tools & Platforms:** Git, GitHub, VS Code, Jupyter, Vercel
+* **Tools & Platforms:** Git, GitHub, VS Code, JupyterNotebook
 
 ---
 
@@ -28,7 +28,6 @@
 * **🌱 Agro-Smart Portal**
   * *Overview:* An AI-ML based agriculture web portal developed to provide technology-driven agricultural guidance, soil analysis, and crop recommendations.
   * *Tech Stack:* Python, Flask, Machine Learning, HTML/CSS
-  * 📂 [View Repository on GitHub](https://github.com/tejaswini-suryawanshi02)
 
 * **🌸 Iris Flower Classification (CodeAlpha Task 1)**
   * *Overview:* Performed exploratory data analysis and trained machine learning classification models on the classic iris dataset.
