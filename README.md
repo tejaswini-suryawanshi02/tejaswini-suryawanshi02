@@ -9,7 +9,7 @@
 ---
 
 ### 💻 About Me
-* 🎓 Currently pursuing **Master of Computer Applications (MCA)** in Nashik, Maharashtra.
+* 🎓 Currently pursuing **Master of Computer Applications (MCA)** .
 * 🚀 Passionate about building intuitive web applications, integrating machine learning utilities, and exploring modern technologies.
 * ⚡ Continuously improving my development skills by building practical projects.
 
